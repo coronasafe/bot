@@ -128,13 +128,15 @@ responses:
             "
   utter_about_dashboards:
     - text: "CoronaSafe Network's public dashboards: \n
-             \n1.Kerala Map Dashboard: \n
+             \n1.Kerala hospital details dashboard: \n
+             https://dashboard.coronasafe.network/ \n
+             \n2.Kerala Map Dashboard: \n
              https://keralamap.coronasafe.network/ \n
-             \n2. Kerala Covid-19 Map: \n
+             \n3. Kerala Covid-19 Map: \n
              http://hotspots.coronasafe.network/ \n
-             \n3. All India Covid Timeline: \n
+             \n4. All India Covid Timeline: \n
              https://plots.coronasafe.network/ \n
-            \n4.Real time Map based all India covid cases along with test centres: \n
+            \n5.Real time Map based all India covid cases along with test centres: \n
              https://map.coronasafe.network/
              \n
             "
